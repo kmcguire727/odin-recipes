@@ -1,0 +1,43 @@
+* {
+    background-color: #101828;
+    color: #d1d5dc;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    /* outline: 1px solid rebeccapurple; */
+}
+
+.hero-image {
+    margin: 25px 0px;
+}
+
+h1,
+h2,
+h3 {
+    font-family: cursive;
+}
+
+a,
+p,
+ul,
+ol {
+    margin-top: -15px;
+    font-size: 14px;
+}
+
+.jump-back {
+    display: block;
+    font-size: 12px;
+    font-style: italic;
+}
+
+body {
+    margin-left: 10px;
+}
+
+a {
+    color: #8ec5ff;
+}
+
+li {
+    padding-top: 5px;
+    padding-right: 15px;
+}
